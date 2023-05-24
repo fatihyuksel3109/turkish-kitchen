@@ -1,7 +1,7 @@
 const menu = [
     {
       id: 1,
-      title: "Yuvarlama Soup",
+      title: "Yuvalama Soup",
       category: "Soups",
       price: 59.99,
       img:
